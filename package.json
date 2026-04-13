@@ -4,6 +4,14 @@
   "description": "A curated VS Code theme collection. Trust the chef.",
   "version": "0.0.1",
   "publisher": "byluisfer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byluisfer/OMAKASE-Theme.git"
+  },
+  "homepage": "https://github.com/byluisfer/OMAKASE-Theme#readme",
+  "bugs": {
+    "url": "https://github.com/byluisfer/OMAKASE-Theme/issues"
+  },
   "engines": {
     "vscode": "^1.115.0"
   },
@@ -18,5 +26,8 @@
         "path": "./themes/OMAKASE-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1"
   }
 }

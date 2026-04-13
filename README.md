@@ -20,8 +20,8 @@ There is no build step for this theme right now. Editing the JSON and pressing `
 
 Each new theme follows the same simple pattern:
 
-1. Add a new JSON file inside [`themes`](/Users/luisfer/Documents/01 Projects/OMAKASE-Theme/themes).
-2. Register it in [`package.json`](/Users/luisfer/Documents/01 Projects/OMAKASE-Theme/package.json) under `contributes.themes`.
+1. Add a new JSON file inside [`themes`](./themes).
+2. Register it in [`package.json`](./package.json) under `contributes.themes`.
 3. Press `F5` and select the new theme in the Extension Development Host.
 
 Example contribution entry:
