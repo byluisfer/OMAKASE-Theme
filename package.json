@@ -1,16 +1,16 @@
 {
   "name": "omakase",
-  "displayName": "OMAKASE",
+  "displayName": "Omakase",
   "description": "A curated VS Code theme collection. Trust the chef.",
   "version": "0.0.1",
   "publisher": "byluisfer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/byluisfer/OMAKASE-Theme.git"
+    "url": "https://github.com/byluisfer/Omakase-Theme.git"
   },
-  "homepage": "https://github.com/byluisfer/OMAKASE-Theme#readme",
+  "homepage": "https://github.com/byluisfer/Omakase-Theme#readme",
   "bugs": {
-    "url": "https://github.com/byluisfer/OMAKASE-Theme/issues"
+    "url": "https://github.com/byluisfer/Omakase-Theme/issues"
   },
   "engines": {
     "vscode": "^1.115.0"
@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "OMAKASE Dark",
+        "label": "Omakase Kuroshio",
         "uiTheme": "vs-dark",
-        "path": "./themes/OMAKASE-color-theme.json"
+        "path": "./themes/Omakase-Kuroshio-color-theme.json"
       }
     ]
   },

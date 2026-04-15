@@ -1,6 +1,6 @@
-# OMAKASE
+# Omakase themes
 
-OMAKASE starts with a clean flagship dark theme: `OMAKASE Dark`.
+Omakase starts with a clean flagship dark theme: `Omakase Kuroshio`.
 
 It aims for a deep black workspace, low-noise chrome, and bright syntax accents that stay readable during long coding sessions.
 
@@ -36,7 +36,7 @@ Example contribution entry:
 
 ## Current Direction
 
-`OMAKASE Dark` uses:
+`Omakase Kuroshio` uses:
 
 - Near-black backgrounds for a focused dark mode foundation
 - Cool blue structure colors for navigation and editor chrome
