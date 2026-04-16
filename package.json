@@ -2,7 +2,7 @@
   "name": "omakase",
   "displayName": "Omakase",
   "description": "A curated VS Code theme collection. Trust the chef.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "byluisfer",
   "repository": {
     "type": "git",
