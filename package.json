@@ -4,13 +4,10 @@
   "description": "A curated VS Code theme collection. Trust the chef.",
   "version": "0.0.3",
   "publisher": "byluisfer",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/byluisfer/Omakase-Theme.git"
-  },
-  "homepage": "https://github.com/byluisfer/Omakase-Theme#readme",
-  "bugs": {
-    "url": "https://github.com/byluisfer/Omakase-Theme/issues"
+    "url": "https://github.com/byluisfer/Omakase"
   },
   "engines": {
     "vscode": "^1.115.0"

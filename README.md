@@ -1,44 +1,32 @@
-# Omakase themes
+# OMAKASE
 
-Omakase starts with a clean flagship dark theme: `Omakase Kuroshio`.
+> A curated VS Code theme collection. Trust the chef.
 
-It aims for a deep black workspace, low-noise chrome, and bright syntax accents that stay readable during long coding sessions.
+OMAKASE is a clean, focused theme designed for long coding sessions.
 
-## Preview The Theme
+It uses a deep dark background with a calm blue and aqua palette to keep your code readable without feeling noisy or overwhelming.
 
-You can preview the theme locally with the built-in VS Code extension workflow:
+---
 
-1. Open this folder in Visual Studio Code.
-2. Press `F5`.
-3. A new **Extension Development Host** window will open.
-4. In that new window, run `Preferences: Color Theme`.
-5. Pick `OMAKASE Dark`.
+## 🌊 Omakase Kuroshio
 
-There is no build step for this theme right now. Editing the JSON and pressing `F5` again is enough to preview updates.
+The main dark theme.
 
-## Create More Themes
+- Deep black background for focus
+- Blue tones for structure
+- Aqua accents for interactions
+- Clear separation between functions, variables, and types
 
-Each new theme follows the same simple pattern:
+Built to make complex code feel simple.
 
-1. Add a new JSON file inside [`themes`](./themes).
-2. Register it in [`package.json`](./package.json) under `contributes.themes`.
-3. Press `F5` and select the new theme in the Extension Development Host.
+---
 
-Example contribution entry:
+## Philosophy
 
-```json
-{
-  "label": "OMAKASE Light",
-  "uiTheme": "vs",
-  "path": "./themes/OMAKASE-light-color-theme.json"
-}
-```
+Less noise. More clarity.
 
-## Current Direction
+Every color has a purpose — nothing is random, nothing is distracting.
 
-`Omakase Kuroshio` uses:
+---
 
-- Near-black backgrounds for a focused dark mode foundation
-- Cool blue structure colors for navigation and editor chrome
-- Soft green strings, rose keywords, gold properties, and violet types
-- Brighter contrast on active surfaces so the UI still feels premium, not flat
+Built by byLuisfer
