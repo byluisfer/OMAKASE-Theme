@@ -27,19 +27,19 @@
     "editorBracketMatch.border": "#6DAAFF66",
     "editorBracketHighlight.foreground1": "#7FE7D0",
     "editorBracketHighlight.foreground2": "#4EC9E4",
-    "editorBracketHighlight.foreground3": "#D4AA5A",
+    "editorBracketHighlight.foreground3": "#9D8FD8",
     "editorBracketHighlight.foreground4": "#7FE7D0",
     "editorBracketHighlight.foreground5": "#50B0C4",
     "editorBracketHighlight.foreground6": "#6DAAFF",
     "editorError.foreground": "#E06C75",
-    "editorWarning.foreground": "#D4AA5A",
+    "editorWarning.foreground": "#B8A8E4",
     "editorInfo.foreground": "#6DAAFF",
     "editorHint.foreground": "#7FE7D0",
     "editorGutter.addedBackground": "#4E9E8A",
     "editorGutter.modifiedBackground": "#6DAAFF",
     "editorGutter.deletedBackground": "#A05060",
     "editorOverviewRuler.errorForeground": "#E06C75B3",
-    "editorOverviewRuler.warningForeground": "#D4AA5AB3",
+    "editorOverviewRuler.warningForeground": "#B8A8E4B3",
     "editorOverviewRuler.infoForeground": "#6DAAFFB3",
     "editorWidget.background": "#1B1B1B",
     "editorWidget.border": "#252A30",
@@ -84,7 +84,7 @@
     "terminal.ansiBlack": "#181818",
     "terminal.ansiRed": "#A05060",
     "terminal.ansiGreen": "#7FE7D0",
-    "terminal.ansiYellow": "#D4AA5A",
+    "terminal.ansiYellow": "#9D8FD8",
     "terminal.ansiBlue": "#6DAAFF",
     "terminal.ansiMagenta": "#A28CF4",
     "terminal.ansiCyan": "#4EC9E4",
@@ -92,7 +92,7 @@
     "terminal.ansiBrightBlack": "#4E6070",
     "terminal.ansiBrightRed": "#C07080",
     "terminal.ansiBrightGreen": "#A7F2E1",
-    "terminal.ansiBrightYellow": "#D4B870",
+    "terminal.ansiBrightYellow": "#B4AAEC",
     "terminal.ansiBrightBlue": "#9ABCFF",
     "terminal.ansiBrightMagenta": "#A89ED4",
     "terminal.ansiBrightCyan": "#7FD4E8",
@@ -167,7 +167,7 @@
         "support.other.variable",
         "string constant.other.placeholder"
       ],
-      "settings": { "foreground": "#82C0D4" }
+      "settings": { "foreground": "#85AADF" }
     },
     {
       "name": "Object variable base",
@@ -176,7 +176,7 @@
         "variable.other.object.ts",
         "variable.other.object.tsx"
       ],
-      "settings": { "foreground": "#82C0D4" }
+      "settings": { "foreground": "#85AADF" }
     },
     {
       "name": "Object property access",
@@ -197,7 +197,7 @@
     {
       "name": "Language variables (this, self, super)",
       "scope": ["variable.language"],
-      "settings": { "foreground": "#82C0D4", "fontStyle": "italic" }
+      "settings": { "foreground": "#85AADF", "fontStyle": "italic" }
     },
     {
       "name": "Function parameters",
@@ -207,7 +207,7 @@
         "meta.function.parameters variable.other",
         "meta.parameters variable.parameter"
       ],
-      "settings": { "foreground": "#82C0D4" }
+      "settings": { "foreground": "#85AADF" }
     },
 
     {
@@ -401,7 +401,7 @@
     {
       "name": "Numbers",
       "scope": ["constant.numeric"],
-      "settings": { "foreground": "#D4AA5A" }
+      "settings": { "foreground": "#9D8FD8" }
     },
     {
       "name": "Booleans and language constants",
@@ -413,27 +413,27 @@
         "constant.language.nan",
         "constant.language.infinity"
       ],
-      "settings": { "foreground": "#D4AA5A" }
+      "settings": { "foreground": "#9D8FD8" }
     },
     {
       "name": "Support constants",
       "scope": ["support.constant"],
-      "settings": { "foreground": "#D4AA5A" }
+      "settings": { "foreground": "#9D8FD8" }
     },
     {
       "name": "Character constants",
       "scope": ["constant.character", "constant.escape"],
-      "settings": { "foreground": "#D4AA5A" }
+      "settings": { "foreground": "#9D8FD8" }
     },
     {
       "name": "CSS units",
       "scope": ["keyword.other.unit"],
-      "settings": { "foreground": "#D4AA5A" }
+      "settings": { "foreground": "#9D8FD8" }
     },
     {
       "name": "CSS hex colors",
       "scope": ["constant.other.color"],
-      "settings": { "foreground": "#82C0D4" }
+      "settings": { "foreground": "#85AADF" }
     },
     {
       "name": "Other keywords",
@@ -499,7 +499,7 @@
     {
       "name": "CSS property values",
       "scope": ["meta.property-value.css", "meta.property-value.scss"],
-      "settings": { "foreground": "#82C0D4" }
+      "settings": { "foreground": "#85AADF" }
     },
     {
       "name": "CSS keyframe / URL params",
@@ -552,7 +552,7 @@
     {
       "name": "SCSS variables",
       "scope": ["variable.scss", "variable.sass"],
-      "settings": { "foreground": "#82C0D4" }
+      "settings": { "foreground": "#85AADF" }
     },
 
     {
@@ -710,7 +710,7 @@
     {
       "name": "Changed",
       "scope": ["markup.changed"],
-      "settings": { "foreground": "#D4AA5A" }
+      "settings": { "foreground": "#9D8FD8" }
     },
 
     {
