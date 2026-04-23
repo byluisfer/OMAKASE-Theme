@@ -4,7 +4,7 @@ A curated VS Code theme collection with deep dark surfaces and calm aqua-blue co
 
 ## Preview
 
-![Screenshot 1](./assets/shot-1.png)
+![Screenshot 1](./assets/shot-1.jpg)
 
 ## Omakase Kuroshio
 
