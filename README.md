@@ -1,32 +1,32 @@
-# OMAKASE
+# Omakase
 
-> A curated VS Code theme collection. Trust the chef.
+A curated VS Code theme collection with deep dark surfaces and calm aqua-blue contrast.
 
-OMAKASE is a clean, focused theme designed for long coding sessions.
+## Preview
 
-It uses a deep dark background with a calm blue and aqua palette to keep your code readable without feeling noisy or overwhelming.
+![Screenshot 1](./assets/shot-1.png)
 
----
+## Omakase Kuroshio
 
-## 🌊 Omakase Kuroshio
+Omakase Kuroshio is a dark theme built for long coding sessions.
 
-The main dark theme.
+It focuses on clarity, strong contrast, and a calm visual rhythm so your editor feels elegant without becoming distracting.
+
+## Highlights
 
 - Deep black background for focus
-- Blue tones for structure
-- Aqua accents for interactions
-- Clear separation between functions, variables, and types
+- Calm blue and aqua palette
+- Clear separation between functions, variables, strings, and types
+- Built for long coding sessions
 
-Built to make complex code feel simple.
+## Installation
 
----
+1. Open Extensions in VS Code
+2. Search for `Omakase`
+3. Click Install
+4. Open `Preferences: Color Theme`
+5. Select `Omakase Kuroshio`
 
-## Philosophy
+## About
 
-Less noise. More clarity.
-
-Every color has a purpose — nothing is random, nothing is distracting.
-
----
-
-Built by byLuisfer
+Built by byLuisfer.
