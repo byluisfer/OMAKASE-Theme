@@ -5,6 +5,23 @@
   "version": "0.0.6",
   "publisher": "byluisfer",
   "license": "MIT",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#06141f",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "vscode theme",
+    "blue theme",
+    "developer theme",
+    "omakase"
+  ],
+  "homepage": "https://github.com/byluisfer/Omakase",
+  "bugs": {
+    "url": "https://github.com/byluisfer/Omakase/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/byluisfer/Omakase"
